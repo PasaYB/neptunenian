@@ -6,6 +6,11 @@ html {
   scroll-behavior: smooth;
 }
 
+html, body, #app {
+  overflow-x: hidden;
+  width: 100%;
+}
+
 /* Smooth transition on theme toggle for all elements */
 *, *::before, *::after {
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
