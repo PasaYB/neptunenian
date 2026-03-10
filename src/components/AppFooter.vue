@@ -1,10 +1,10 @@
 <template>
   <footer class="bg-gray-30 shadow-[0_-10px_12px_2px_rgba(0,0,0,0.1)] dark:shadow-[0_-10px_12px_2px_rgba(255,255,255,0.1)] dark:bg-black rounded-tr-3xl rounded-tl-3xl border-t dark:border-[#4E4E4E]">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 mb-10">
-        <div class="flex items-center">
-          <span class="font-bold text-black text-xl dark:text-white">Neptunenian</span>
-        </div>
+      <div class="flex items-center mb-8">
+        <span class="font-bold text-black text-xl dark:text-white">Neptunenian</span>
+      </div>
+      <div class="grid grid-cols-3 gap-4 mb-10">
         
         <!-- Products -->
         <div>
